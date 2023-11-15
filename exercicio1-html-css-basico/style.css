@@ -1,0 +1,10 @@
+html{
+    background-color: blueviolet;
+    color: rgb(126, 165, 187);
+    font-size: 20px;
+    margin: 3% 5%;
+}
+strong{
+    color: rgb(54, 19, 54);
+    font-size: 25px;
+}

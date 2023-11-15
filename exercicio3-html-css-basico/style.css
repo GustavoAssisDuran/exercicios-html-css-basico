@@ -1,0 +1,19 @@
+html{
+    background-color: rgb(70, 5, 70);
+    color: #000000;
+}
+
+h1{
+    text-align: center;
+    color: #f5f5f5;
+}
+.padrao{
+background: #f5f5f5;
+}
+.destaque{
+    background-color: #f0cce2;
+}
+.texto{
+    margin: 40px;
+    padding: 20px;
+}
